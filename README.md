@@ -1,7 +1,7 @@
 # Python
 
 ## Zanim zaczniesz
-Skrytpy zamieszczone w tym miejscu można uruchamiać w środowisku online [Colaboratory](https://colab.research.google.com) Środowisko to pozwala na bezpośrednie interakcyjne uruchamianie skryptów. Poniżej znajdziesz skrypty podzielone tematycznie.
+Skrytpy zamieszczone w tym miejscu można uruchamiać w środowisku online [Colaboratory](https://colab.research.google.com) Środowisko to pozwala na bezpośrednie interakcyjne uruchamianie skryptów. Poniżej znajdziesz skrypty podzielone tematycznie. Aby skorzystać ze środowiska musisz posiadać konnto google np. usługa gmail lub inne, do którego będziesz musiał się zalogować przed rozpoczęciem pracy poniższym materiałem. Dzięki temu nie musisz instalować żadnego środowiska aby rozpocząć naukę programowania w Python.
 
 
 ### Wprowadzenie do języka Python
